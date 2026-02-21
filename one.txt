@@ -3,3 +3,5 @@ This is a first file.
 Add another file to the folder and commit it.
 
 Add third file to the folder and commit it.
+
+Add fourth file to the folder and commit it.
